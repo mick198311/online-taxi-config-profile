@@ -1,6 +1,7 @@
 
-env: master-qa6
+env: master-qa7
 
-
+server: 
+  port: 8012
 
 
